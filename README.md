@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # ruby-test-1
-=======
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +25,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> caaff57 (マリア拝見用)
