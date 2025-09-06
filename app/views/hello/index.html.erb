@@ -1,1 +1,9 @@
-<h1>Hello World</h1>
+<h1>試作掲示板1号</h1>
+
+<ul>
+  <% @posts.each do |post| %>
+    <li>
+      <strong><%= post.name %></strong>: <%= post.content %>
+    </li>
+  <% end %>
+</ul>
